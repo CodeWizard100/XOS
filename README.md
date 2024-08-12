@@ -15,8 +15,8 @@ Thanks to CodePulse by great tutorial
 - (optional) I highly recomend a vs code
 
 ### To Do
-- Keyboard controller [x]
-- Commands [x]
-- Graphics []
-- Mouse Drivers []
-- File system []
+- [x] Keyboard controller
+- [x] Commands
+- [ ] Graphics
+- [ ] Mouse Drivers
+- [ ] File system
